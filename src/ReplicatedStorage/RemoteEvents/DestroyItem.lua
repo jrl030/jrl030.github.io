@@ -1,0 +1,3 @@
+-- RemoteEvent for destroying items
+-- This is a RemoteEvent instance that should be placed in ReplicatedStorage/RemoteEvents/
+-- Name: DestroyItem
